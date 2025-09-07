@@ -114,7 +114,7 @@ which multiqc
 # Professional Profile
 
 # Git hub repo link
-
+https://github.com/ssvaksharkumar/NGS-Fundamentals/blob/main/Bash_Project.sh
 
 # Video Team link
 https://www.linkedin.com/posts/oluwasefunmi-shodunke_bioinformatics-genomics-conda-activity-7366815390154297344-b_AG?utm_medium=ios_app&rcm=ACoAACTm-A0BlYsqMeeDlJGEWOHkbU8MlaMuRSM&utm_source=social_share_send&utm_campaign=copy_link
